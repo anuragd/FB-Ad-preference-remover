@@ -10,3 +10,9 @@ Script to remove all ad preferences on facebook
 6. You'll see a STOP warning from Facebook here. Ignore that, we are just automating what you'd otherwise have to do by clicking about 350 times
 7. Copy paste the code from the fbapr-min.js file into the console tab.
 8. Sit back and watch hundreds of ad categories being removed!
+
+## What it does
+1. Loads jQuery into the console
+2. Finds all "Show more" buttons and clicks them
+3. Waits a little while(15 secs) for all the categories to load
+4. Clicks the "X" button next to all the preferences
