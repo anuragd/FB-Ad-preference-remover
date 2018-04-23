@@ -20,7 +20,11 @@ Script to remove all ad preferences on facebook
 ## Script Modifications/Requirements
 - Occasionally, FB will update their div/button classes, so you'll need to update the script variables to point at the correct class id's.  Screenshots below on what each variable represents.
 
+- see_more_button_class
 ![see_more_button_class](see_more_button_class.png?raw=true "see_more_button_class")
+- ad_cats_class
 ![ad_cats_class](ad_cats_class.png?raw=true "ad_cats_class")
+- category_class
 ![category_class](category_class.png?raw=true "category_class")
+- remove_button_class
 ![remove_button_class](remove_button_class.png?raw=true "remove_button_class")
